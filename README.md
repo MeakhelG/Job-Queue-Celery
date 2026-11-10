@@ -3,6 +3,10 @@
 Repositori ini merupakan pengerjaan tugas **T2-KBJ: Job Queue dengan Python Celery**
 (mata kuliah *Komputasi Berbasis Jaringan*, S2 Informatika UNESA).
 
+**Author:**
+- MUHAMMAD AINURROFIQ ANWAR BUHANG — NIM: 26051905007
+- MEAKHEL GUNAWAN — NIM: 26051905019
+
 Isi tugas yang dikerjakan:
 1. Modifikasi kode sumber contoh agar lebih bersih dan dapat dijalankan sebagai skrip
    (bukan package, perbaikan *broken relative-imports*).
